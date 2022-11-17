@@ -1,0 +1,15 @@
+C:\Users\gamac\desafioCSharp\bin\Debug\net6.0\desafioCSharp.exe
+C:\Users\gamac\desafioCSharp\bin\Debug\net6.0\desafioCSharp.deps.json
+C:\Users\gamac\desafioCSharp\bin\Debug\net6.0\desafioCSharp.runtimeconfig.json
+C:\Users\gamac\desafioCSharp\bin\Debug\net6.0\desafioCSharp.dll
+C:\Users\gamac\desafioCSharp\bin\Debug\net6.0\desafioCSharp.pdb
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.csproj.AssemblyReference.cache
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.AssemblyInfoInputs.cache
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.AssemblyInfo.cs
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.dll
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\refint\desafioCSharp.dll
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.pdb
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\desafioCSharp.genruntimeconfig.cache
+C:\Users\gamac\desafioCSharp\obj\Debug\net6.0\ref\desafioCSharp.dll
